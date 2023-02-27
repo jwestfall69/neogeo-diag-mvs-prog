@@ -1061,7 +1061,7 @@
     (tags "SO SO")
     (property "Sheetfile" "neogeo-diag-mvs-prog.kicad_sch")
     (property "Sheetname" "")
-    (path "/5febe847-4458-4da8-9dfa-814ae06ea6c3")
+    (path "/61303db3-0ae1-4d75-a941-19d4c7b106fb")
     (attr smd)
     (fp_text reference "U3" (at 0 -5.28 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2942,7 +2942,7 @@
     (tags "SO SO")
     (property "Sheetfile" "neogeo-diag-mvs-prog.kicad_sch")
     (property "Sheetname" "")
-    (path "/ab9da0a6-c02d-46c0-9f4a-207bd28ec5bb")
+    (path "/c495b1d7-90c4-403a-91bb-8ca2eb1a82da")
     (attr smd)
     (fp_text reference "U4" (at 0 -5.28 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3011,7 +3011,7 @@
     (tags "SO SO")
     (property "Sheetfile" "neogeo-diag-mvs-prog.kicad_sch")
     (property "Sheetname" "")
-    (path "/32c54a75-d940-44a7-a490-b2f2f31106c4")
+    (path "/29825539-d758-44ea-9589-459ccfd4eb09")
     (attr smd)
     (fp_text reference "U2" (at 4.625 3.6 180) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5419,7 +5419,7 @@
   (gr_line (start 190.75 26.25) (end 178.75 26.25) (layer "Edge.Cuts") (width 0.1) (tstamp ac33f8c0-717b-4252-8f65-56ded4da1ba1))
   (gr_line (start 190.75 23.75) (end 190.75 26.25) (layer "Edge.Cuts") (width 0.1) (tstamp b6629d16-9122-4a28-90e2-33000fcdb9fb))
   (gr_line (start 52.75 23.75) (end 88.75 23.75) (layer "Edge.Cuts") (width 0.1) (tstamp bce0b06c-23d7-46ca-84bd-a6b6cdd34ee0))
-  (gr_line (start 217.05 138.76) (end 226.75 138.75) (layer "Edge.Cuts") (width 0.1) (tstamp c5232c1e-3e5b-4b0b-8aff-8fed65766cd6))
+  (gr_line (start 217.05 138.75) (end 226.75 138.75) (layer "Edge.Cuts") (width 0.1) (tstamp c5232c1e-3e5b-4b0b-8aff-8fed65766cd6))
   (gr_circle (center 94.75 127) (end 99.75 127) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp dbb0bd8f-ea48-4916-a880-b4eea7c8bd5f))
   (gr_line (start 226.75 23.75) (end 190.75 23.75) (layer "Edge.Cuts") (width 0.1) (tstamp ea93fe9b-f62f-407b-8a2c-6891dfec078a))
   (gr_line (start 62.45 157.75) (end 62.45 138.75) (layer "Edge.Cuts") (width 0.1) (tstamp f29b3d13-d810-49da-9fe7-187cc9a034fb))
