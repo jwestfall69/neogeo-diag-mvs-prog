@@ -89,7 +89,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "${REV}")
+      (outputdirectory "hw-rev-${REV}")
     )
   )
 
